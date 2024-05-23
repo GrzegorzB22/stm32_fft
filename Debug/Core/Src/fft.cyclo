@@ -1,0 +1,5 @@
+../Core/Src/fft.c:11:6:FFT_Init	3
+../Core/Src/fft.c:54:6:FFT_Compute	13
+../Core/Src/fft.c:108:6:FFT_Magnitude	2
+../Core/Src/fft.c:115:6:FFT_MagnitudeDB	2
+../Core/Src/fft.c:122:6:array_scale	2

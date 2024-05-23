@@ -1,0 +1,9 @@
+../Core/Src/st7735.c:296:13:st7735_data	16	static
+../Core/Src/st7735.c:312:13:st7735_data16	8	static
+../Core/Src/st7735.c:288:13:st7735_cmd	16	static
+../Core/Src/st7735.c:334:6:ST7735_Init	16	static
+../Core/Src/st7735.c:352:6:ST7735_Update	8	static
+../Core/Src/st7735.c:364:6:ST7735_WriteChar	24	static
+../Core/Src/st7735.c:382:6:ST7735_WriteString	8	static
+../Core/Src/st7735.c:397:6:ST7735_DrawFFT	88	static
+../Core/Src/st7735.c:432:6:ST7735_Clear	0	static
